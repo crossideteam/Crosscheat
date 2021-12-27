@@ -1,0 +1,25 @@
+{
+  "name": "crosside-anticheat",
+  "version": "1.0.0",
+  "description": "Anticheat for FiveM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crossideteam/Crosside-Anticheat.git"
+  },
+  "author": "Crosside[IGUESS]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crossideteam/Crosside-Anticheat/issues"
+  },
+  "homepage": "https://github.com/crossideteam/Crosside-Anticheat#readme",
+  "dependencies": {
+    "@citizenfx/client": "^2.0.5133-1",
+    "@citizenfx/server": "^2.0.5133-1",
+    "fs": "0.0.1-security",
+    "ws": "^8.4.0"
+  }
+}

@@ -1,6 +1,6 @@
 # Crosscheat
 ## About
- This is an anticheat system modificated version. The not modificated version reachable on this link: https://github.com/JaredScar/Badger-Anticheat
+ This is not an anticheat system. Its a mod for a better anticheat.
 ## Features
  - This system has official ban database which check players. It can be enable if you want to more secure your server.
  - Secured connection between the your server, and our official servers.
